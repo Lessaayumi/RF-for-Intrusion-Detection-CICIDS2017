@@ -1,6 +1,7 @@
 # Validação de Random Forest como Método de Detecção de Ataques em Ambientes de Rede com Base no Dataset CIC-IDS2017
 
 Por: Alessandra de Souza Lopes
+
 Sob orientação: Dr. Prof Thiago José Lucas
 
 **RESUMO**
