@@ -270,6 +270,10 @@ em cada fold, em termos de acurácia, são apresentados na Tabela 3.
 
 Tabela 3 – Acurácia obtida por fold na validação cruzada 10-fold com Random Forest. Fonte: Elaborado pelo autor
 
+![Image](https://github.com/user-attachments/assets/e8d8da8e-8635-4433-802b-2fa520069912)
+
+Figura 1 – Acurácia obtida por fold na validação cruzada 10-fold com Random Forest. Fonte: Elaborado pelo autor
+
   Os resultados revelam um desempenho excepcional do modelo Random
 Forest, com acurácia média de 100% e desvio padrão nulo, indicando consistência
 total entre os folds. Essa estabilidade pode ser atribuída à alta capacidade do
